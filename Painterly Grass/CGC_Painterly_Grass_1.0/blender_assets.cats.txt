@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+c22143ba-53f1-43f1-afa3-7e936d0984bc:Basic Grass:Basic Grass
+fd4644f0-b2e4-4492-a391-614ace957497:Detailed Grass:Detailed Grass
+6c1f5ce5-9e88-403c-b25c-eedc6fe7ffd7:Shader Grass Toolkit:Shader Grass Toolkit
